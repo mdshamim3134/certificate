@@ -23,5 +23,9 @@ public class D2 implements Comparable <D2>  {
 		// TODO Auto-generated method stub
 		return 0;
 	}
-
+	public void vv(
+		{
+system.out.println(p);
+	
+	
 }
