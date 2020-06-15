@@ -10,6 +10,7 @@ public class febonacinum {
 			febo2 = febonaci;
 		}
 		System.out.println("febonaci number is:" + "" + febonaci);
+		System.out.println("goodnumber" + "" + febonaci);
 	}
 
 }
